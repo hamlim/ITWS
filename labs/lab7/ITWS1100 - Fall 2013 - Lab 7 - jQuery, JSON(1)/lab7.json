@@ -1,0 +1,46 @@
+{
+    "menuItem": [
+        {
+            "menuName": "Lab 2",
+            "menuDesc": "Resume",
+            "menuURL": "projects/lab2/Matthew Hamlin - Resume.html",
+            "menuNum": "2"
+        },
+        {
+            "menuName": "Lab 3",
+            "menuDesc": "Website",
+            "menuURL": "../index.html",
+            "menuNum": "3"
+        },
+        {
+            "menuName": "Lab 4 part 1",
+            "menuDesc": "Create an RSS feed",
+            "menuURL": "projects/lab4/rss.xml",
+            "menuNum": "4_1"
+        },
+        {
+            "menuName": "Lab 4 part 2",
+            "menuDesc": "Create an ATOM feed",
+            "menuURL": "projects/lab4/atom.xml",
+            "menuNum": "4_2"
+        },
+        {
+            "menuName": "Lab 5",
+            "menuDesc": "Forms",
+            "menuURL": "projects/lab5/Lab5.html",
+            "menuNum": "5"
+        },
+        {
+            "menuName": "Lab 6",
+            "menuDesc": "jQuery",
+            "menuURL": "projects/lab6/lab6.html",
+            "menuNum": "6"
+        },
+        {
+            "menuName": "Lab 7",
+            "menuDesc": "JSON and AJAX",
+            "menuURL": "../projects.html",
+            "menuNum": "7"
+        }
+    ]
+}

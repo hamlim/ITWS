@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+	<title>My News Feed</title>
+	<description>Select Articles on the Google Nexus 5</description>
+	<link>https://afsws.rpi.edu/AFS/home/18/hamlim/public_html/iit/</link>
+	<lastBuildDate>Thu, 26 Sep 2013 13:39:39 +0000 </lastBuildDate>
+	<pubDate>Thu, 26 Sep 2013 13:39:39 EST</pubDate>
+ 
+	<item>
+		<title>Google Nexus 5 specs, release date, rumours and news</title>
+		<description>A collection of information currently known by the writer about the Soon to be released Google Nexus 5.</description>
+		<link>http://www.expertreviews.co.uk/smartphones</link>
+		<guid>http://www.expertreviews.co.uk/mobile-phones/1299484/google-nexus-5-specs-release-date-rumours-and-news</guid>
+	  <pubDate>Thu, 26 Sep 2013 18:19:01 GMT</pubDate>
+	</item>
+    <item>
+		<title>Nexus 5 compared to Nexus 4 [specs]</title>
+		<description>Article about the differences betweent he specs of the previous nexus phone and the one that is soon to be announced.</description>
+		<link>http://www.droid-life.com</link>
+		<guid>http://www.droid-life.com/2013/10/07/nexus-5-specs/</guid>
+	  <pubDate>Mon, 7 Oct 2013 00:45:00 GMT</pubDate>
+	</item>
+    <item>
+		<title>Nexus 5 Service Manual Leaked</title>
+		<description>The service manual for the new phone was leaked containing a ton of information about the device.</description>
+		<link>http://www.droid-life.com</link>
+		<guid>http://www.droid-life.com/2013/10/05/nexus-5-user-manual/</guid>
+	  <pubDate>Sat, 05 Oct 2013 00:45:00 GMT</pubDate>
+	</item>
+  </channel>
+</rss>
+

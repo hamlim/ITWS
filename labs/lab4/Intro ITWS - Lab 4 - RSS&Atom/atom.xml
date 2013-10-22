@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Nexus 5 Atom Feed</title>
+	<subtitle>A few select articles on the Nexus 5.</subtitle>
+	<link href="https://afsws.rpi.edu/AFS/home/18/hamlim/public_html/iit/" rel="self" />
+	<id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+	<updated>2013-10-08T18:30:02Z</updated>
+	<author>
+		<name>Matt Hamlin</name>
+		<email>hamlim@rpi.edu</email>
+	</author>
+ 
+	<entry>
+		<title>Summary of Nexus 5 Specs Earlier In The Year</title>
+		<link href="http://www.expertreviews.co.uk/mobile-phones/1299484/google-nexus-5-rumours-specs-release-date-and-news" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-bbbb-80da344efa6a</id>
+		<updated>2003-12-13T18:30:02Z</updated>
+		<summary>An early analysis of the infromation about the Nexus 5.</summary>
+	</entry>
+    <entry>
+		<title>Nexus 5 vs. Nexus 4 Specs</title>
+		<link href="http://www.droid-life.com/2013/10/07/nexus-5-specs/" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-cccc-80da344efa7a</id>
+		<updated>2013-10-07T18:30:02Z</updated>
+		<summary>A comparison of the specs between the current nexus phone and the future one.</summary>
+	</entry>
+	<entry>
+		<title>A Look Into the Nexus 5 Service Manual</title>
+		<link href="http://www.droid-life.com/2013/10/05/nexus-5-user-manual/" />
+		<id>urn:uuid:1225c695-cfb8-4ebb-dddd-80da344efa8a</id>
+		<updated>2013-10-05T18:30:02Z</updated>
+		<summary>A huge leak of the information of the future device held within the service manual.</summary>
+	</entry>
+</feed>
+
